@@ -1,0 +1,25 @@
+select {
+    /* margin-left: 684px; */
+    display: flex;
+    justify-content: space-around;
+}
+h2 {
+    padding: 12px;
+    font-family: monospace;
+    font-size: 21px;
+    font-weight: bold;
+    
+}
+p {
+    padding: 14px 1px;
+    font-family: monospace;
+    font-size: 14px;
+}
+img {
+    height: 228px;
+    width: 82%;
+    padding-bottom: 11px;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}

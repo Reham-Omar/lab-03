@@ -1,0 +1,53 @@
+h1 {
+    font-size: 33px;
+    font-family: cursive;
+    text-align: center;
+    padding: 39px;
+    margin: 10px;
+}
+
+footer {
+    clear: both;
+    background-color: bisque;
+    text-align: center;
+    font-size: 16px;
+    font-family: fantasy;
+    height: 30px;
+    line-height: 2;
+}
+
+ #newtemplate {
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+} 
+
+div {
+   
+    height: 354px;
+    background: beige;
+    width: 400px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    margin-left: 27px;
+}
+
+main{
+    display: flex;
+    justify-content: space-around;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    /* flex-direction: column; */
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 21px;
+}
+
+button ,select {
+    margin-right: 5px;
+}
